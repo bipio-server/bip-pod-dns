@@ -1,3 +1,4 @@
+# **NOTICE:** This repository has been **DEPRECATED**. Do not use.
 ![DNS](dns.png) bip-pod-dns
 =======
 
